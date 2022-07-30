@@ -6,15 +6,15 @@
 </template>
 
 <script>
-    export default {
-        name:'School',
-		data() {
-			return {
-				name:'yus',
-				address:'qhd'
-			}
-		},
-    }
+  export default {
+    name:'School',
+    data() {
+      return {
+        name:'yus',
+        address:'qhd'
+      }
+    },
+  }
 </script>
 
 <style>
