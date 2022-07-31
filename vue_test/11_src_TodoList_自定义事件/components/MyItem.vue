@@ -32,7 +32,7 @@
     }
 </script>
 
-<style scope>
+<style scoped>
      /*item*/
     li {
         list-style: none;

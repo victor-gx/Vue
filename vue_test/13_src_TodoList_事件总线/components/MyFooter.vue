@@ -49,7 +49,7 @@
 			//清空所有已完成
 			clearAll(){
 				// this.clearAllTodo()
-                this.$emit('chearAllTodo')
+                this.$emit('clearAllTodo')
 			}
 		},
     }

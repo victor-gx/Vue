@@ -8,6 +8,6 @@ new Vue({
     el:'#app',
     render: h => h(App),
     beforeCreate() {
-      Vue.prototype.$bus = this
-    },
+		Vue.prototype.$bus = this
+	},
 })
