@@ -11,7 +11,7 @@
 		name:'Child',
 		async setup(){
 			let sum = ref(0)
-			let p = new Promise((resolve,reject)=>{
+			let p = new Promise((resolve,reject) => {
 				setTimeout(()=>{
 					resolve({sum})
 				},1000)
